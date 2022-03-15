@@ -1,0 +1,15 @@
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\bin\Debug\net6.0\pattern.exe
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\bin\Debug\net6.0\pattern.deps.json
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\bin\Debug\net6.0\pattern.runtimeconfig.json
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\bin\Debug\net6.0\pattern.dll
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\bin\Debug\net6.0\ref\pattern.dll
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\bin\Debug\net6.0\pattern.pdb
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\obj\Debug\net6.0\pattern.csproj.AssemblyReference.cache
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\obj\Debug\net6.0\pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\obj\Debug\net6.0\pattern.AssemblyInfoInputs.cache
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\obj\Debug\net6.0\pattern.AssemblyInfo.cs
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\obj\Debug\net6.0\pattern.csproj.CoreCompileInputs.cache
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\obj\Debug\net6.0\pattern.dll
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\obj\Debug\net6.0\ref\pattern.dll
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\obj\Debug\net6.0\pattern.pdb
+C:\Users\kruch\Documents\CourseProject\CourseProject\pattern\pattern\obj\Debug\net6.0\pattern.genruntimeconfig.cache
